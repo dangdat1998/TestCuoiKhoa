@@ -1,0 +1,31 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+    background-size: cover;
+    background: url("https://img.fifa.com/image/upload/t_l1/v1576061385/lsuut0w68vastugnqrz8.jpg")
+}
+
+.sub{
+    position: fixed;
+    margin-left: 70%;
+    margin-top: 200px;
+    font-size: 45px;
+    
+}
+
+.content{
+    color: rgb(255, 0, 0)
+}
+
+.screen{
+    display: flex;
+    justify-content: space-around;
+}
+
+.app-body{
+    color: rgb(236, 209, 57)
+}
+
+.submit{
+    color:orangered;
+    background: linear-gradient(135deg, rgb(255, 136, 1), rgb(230, 230, 230) 100%);
+}
